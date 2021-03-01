@@ -2,7 +2,7 @@
 
 ```bash 
 
-$ composer require idealo/php-middleware-stack
+$ composer require standout/middleware-stack
 
 ```
 
