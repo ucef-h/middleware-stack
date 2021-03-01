@@ -22,3 +22,4 @@ $stack = new Stack(
 
 $stack->handle($request);
 
+```
