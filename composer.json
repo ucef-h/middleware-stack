@@ -2,6 +2,7 @@
     "name": "standout/middleware-stack",
     "description": "Middleware Stack",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "StandoutWeb",
